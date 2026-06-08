@@ -1,4 +1,4 @@
-# TP Supervision réseau et système — scripts d'installation des VMs
+# TP Supervision réseau et système - scripts d'installation des VMs
 
 ## Topologie cible
 
