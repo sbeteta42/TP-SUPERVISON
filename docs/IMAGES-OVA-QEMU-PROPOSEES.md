@@ -19,7 +19,7 @@ Pour un TP pédagogique stable et reproductible :
 | srv-web | Debian 12 genericcloud ou ISO Debian 12 | [qcow2](https://cloud.debian.org/images/cloud/bookworm/latest/debian-12-genericcloud-amd64.qcow2) / [ISO](https://cdimage.debian.org/cdimage/archive/12.13.0/amd64/iso-cd/debian-12.13.0-amd64-netinst.iso) / [OVA](https://mega.nz/file/egRGlZxR#N76D0EHWaud6MtELHjeR4s6pciZ5jRRsz_N_JihF8Hk) |
 | srv-zabbix | Debian 12 + script ou Appliance Zabbix 7.0 LTS | [qcow2](https://cloud.debian.org/images/cloud/bookworm/latest/debian-12-genericcloud-amd64.qcow2) / OVF / VMX |
 | srv-grafana | Debian 12 + script | [qcow2](https://cloud.debian.org/images/cloud/bookworm/latest/debian-12-genericcloud-amd64.qcow2) [ISO](https://cdimage.debian.org/cdimage/archive/12.13.0/amd64/iso-cd/debian-12.13.0-amd64-netinst.iso) / [OVA](https://mega.nz/file/egRGlZxR#N76D0EHWaud6MtELHjeR4s6pciZ5jRRsz_N_JihF8Hk) |
-| srv-observium | Debian 12 + script | qcow2](https://cloud.debian.org/images/cloud/bookworm/latest/debian-12-genericcloud-amd64.qcow2) / [ISO](https://cdimage.debian.org/cdimage/archive/12.13.0/amd64/iso-cd/debian-12.13.0-amd64-netinst.iso) |
+| srv-observium | Debian 12 + script | [qcow2](https://cloud.debian.org/images/cloud/bookworm/latest/debian-12-genericcloud-amd64.qcow2) / [ISO](https://cdimage.debian.org/cdimage/archive/12.13.0/amd64/iso-cd/debian-12.13.0-amd64-netinst.iso) |
 | cli-win | Windows 11 Enterprise Evaluation | [ISO](https://mega.nz/file/D8Y2DZSZ#BxxiD6MLqFU_9GlSUZt6bxtUNZ1CoW5RwcgW-5aLm9g) / [OVA](https://mega.nz/file/C8wFkCKR#WF0raTNtvUWZIH-ocUj4IUWMelca-gUiX6UUJbQpAIA) |
 
 ## À éviter
