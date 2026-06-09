@@ -7,9 +7,9 @@ Utiliser l'ISO officiel pfSense CE via Netgate Installer.
 ## Paramètres VM VMware / KVM
 
 - OS invité : FreeBSD 64-bit
-- CPU : 2 vCPU
-- RAM : 2 Go minimum
-- Disque : 20 Go
+- CPU : 1 vCPU
+- RAM : 1 Go minimum
+- Disque : 10 Go
 - NIC 1 : WAN, NAT ou bridge Internet
 - NIC 2 : LAN, réseau interne `LAN-SUPERVISION`
 
