@@ -1,4 +1,4 @@
-# Images OVA / VMware — méthode recommandée
+# Images OVA / VMware : méthode recommandée
 
 ## Base Debian 12
 
