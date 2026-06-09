@@ -118,5 +118,5 @@ Ce poste est idéal pour évaluer :
 ---
 
 <p align="center">
-  <strong>💻 Windows 11 — poste de test et de validation du laboratoire</strong>
+  <strong>💻 Windows 11 : poste de test et de validation du laboratoire</strong>
 </p>
