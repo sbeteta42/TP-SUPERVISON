@@ -24,9 +24,8 @@ Pour un TP pédagogique stable et reproductible :
 
 ## À éviter
 
-- Images OVA trouvées sur des sites non officiels.
+- Images OVA trouvées sur des sites non officiel SAUF celle proposés par votgre formateur.
 - Appliances anciennes type pfSense 2.4.x sauf besoin GNS3 spécifique.
 - Images Observium non maintenues.
 - Images Windows non Microsoft.
 
-La bonne pratique formateur : télécharger les images officielles, appliquer les scripts, prendre un snapshot propre, puis exporter tes propres OVA.
