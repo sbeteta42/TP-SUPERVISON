@@ -234,6 +234,6 @@ snmpwalk -v2c -c <communaute_snmp_lab> 192.168.1.10 system
 ---
 
 <p align="center">
-  <strong>🛰️ TP Supervision réseau et système — laboratoire pédagogique prêt à l’emploi</strong><br>
+  <strong>🛰️ TP Supervision réseau et système : laboratoire pédagogique prêt à l’emploi</strong><br>
   <em>Formation ingénierie informatique, systèmes, réseaux et cybersécurité</em>
 </p>
