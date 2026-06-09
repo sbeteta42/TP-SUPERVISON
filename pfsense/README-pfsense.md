@@ -1,4 +1,4 @@
-# pfSense — préparation de la VM du TP
+# pfSense - préparation de la VM du TP
 
 ## Image recommandée
 
