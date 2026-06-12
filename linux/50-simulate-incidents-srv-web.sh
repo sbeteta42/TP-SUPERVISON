@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# By Shadowhacker (sbeteta)
 set -Eeuo pipefail
 
 # Script de simulation des pannes du TP à exécuter sur srv-web.
