@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# By Shadowhacker (sbeteta)
 set -Eeuo pipefail
 
 # VM cible : srv-web / 192.168.1.10
