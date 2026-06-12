@@ -216,12 +216,8 @@ Une fois la VM prête dans VMware Workstation :
 
 ## 🧠 Recommandation pédagogique
 
-Pour un TP de supervision, il est préférable de fournir :
+Pour un TP de supervision, il est préférable d'utiliser :
 
 - une base Debian 12 propre ;
-- des scripts d’installation reproductibles ;
 - des snapshots nommés par étape ;
-- une documentation claire des IP, comptes et services ;
-- une image OVA uniquement lorsque l’objectif est de gagner du temps en salle.
-
-👉 Une image OVA est pratique, mais un script d’installation reste plus formateur, plus vérifiable et plus facilement maintenable.
+- une documentation claire des IP, comptes et services.
