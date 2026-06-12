@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# by Shadowhacker (sbeteta)
 set -Eeuo pipefail
 
 # Usage:
