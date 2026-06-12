@@ -139,5 +139,5 @@ Ce dossier peut servir à faire travailler les apprenants sur :
 ---
 
 <p align="center">
-  <strong>🐧 Debian 12 — base Linux du laboratoire de supervision</strong>
+  <strong>🐧 Debian 12 - base Linux du laboratoire de supervision</strong>
 </p>
